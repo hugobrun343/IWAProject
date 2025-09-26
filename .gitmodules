@@ -4,6 +4,3 @@
 [submodule "back"]
 	path = back
 	url = git@github.com:hugobrun343/IWAProject-Back.git
-[submodule "dokku-deployer"]
-	path = dokku-deployer
-	url = git@github.com:hugobrun343/IWAProject-DokkuDeployer.git

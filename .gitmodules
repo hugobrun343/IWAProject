@@ -1,6 +1,6 @@
 [submodule "front"]
 	path = front
-	url = git@github.com:hugobrun343/IWAProject-Front.git
+	url = git@github.com:hugobrun343/iwa-project-front.git
 [submodule "back"]
 	path = back
-	url = git@github.com:hugobrun343/IWAProject-Back.git
+	url = git@github.com:hugobrun343/iwa-project-back.git
